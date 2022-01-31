@@ -3,3 +3,7 @@ ai4i2020.csv
 linear_reg.sav
 test.html
 admission_lr_prediction.pickle
+BostonModel.pickle
+BostonScalerModel.pickle
+ScalerModel.pickle
+admissionRegression.pickle
